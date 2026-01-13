@@ -246,6 +246,7 @@
 * Peet's Coffee, San Francisco
 * 1 Oz Coffee, Mountain View
 * Velas Resorts, Puerto Vallarta
+* Goodhart Coffee, San Francisco
 
 #### Dessert Shops
 * Magnolia Bakery, New York City
