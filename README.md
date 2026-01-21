@@ -177,6 +177,7 @@
 * Pie Punks, San Francisco
 * Sweetgreen, Mountain View
 * The Posh Bagel, Los Altos
+* Aliment, San Francisco
 
 #### Other Cuisines
 
