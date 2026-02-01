@@ -283,6 +283,7 @@
 * SusieCakes, Willow Glen
 * Kween's, Mountain View
 * Sana'a Cafe, Mountain View
+* Philz Coffee, Los Altos
   
 #### Bars
 * 83 Proof, San Francisco
