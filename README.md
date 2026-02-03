@@ -248,6 +248,7 @@
 * 1 Oz Coffee, Mountain View
 * Velas Resorts, Puerto Vallarta
 * Goodhart Coffee, San Francisco
+* Philz Coffee, Los Altos
 
 #### Dessert Shops
 * Magnolia Bakery, New York City
@@ -283,7 +284,6 @@
 * SusieCakes, Willow Glen
 * Kween's, Mountain View
 * Sana'a Cafe, Mountain View
-* Philz Coffee, Los Altos
   
 #### Bars
 * 83 Proof, San Francisco
