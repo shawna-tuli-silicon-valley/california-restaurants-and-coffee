@@ -222,6 +222,7 @@
 * Filipino (On Your Table SF, San Francisco)
 * Japanese (Bento Sushi, Irvine)
 * European (Caffé Al Teatro, Las Vegas)
+* Turkish (Cafe Baklava, Mountain VieW)
 
 #### Coffee Shops
 * Balboa Lily's, Newport Beach
