@@ -130,6 +130,7 @@
 * Rick's Cafe, Palo Alto
 * The Treasury, San Francisco
 * The Good Salad, Los Altos
+* In-N-Out Burger, Santa Clara
   
 #### Other Cuisines
 * Thai (Coup de Thai, Los Gatos; Thai Spice, Los Gatos; Must be Thai, San Jose; Tommy Thai, Mountain View; Thai Spice, Irvine; Mint Leaf Thai Cuisine, Newport Beach; Thai Villa, New York City; New Krungthai Restaurant, San Jose; Mint Leaf Cuisine, Saratoga; Amarin Thai Cuisine, San Jose; Thai Nakorn, San Bruno; Pineapple Village, Gilroy; Thai Bangkok Cuisine, Cupertino; Thai Orchard, Campbell; Sala Thai Restaurant, Fremont; Noi Thai Cuisine, Seattle; Erawan Thai Cuisine, Almaden; Amarin Thai Cuisine, Mountain View; Thai Orchid, Campbell; Charoen Krung, New York City; Khaosan Thai Restaurant, San Jose; Khao Thai Restaurant, Saratoga; Thai Spice, San Jose; Wazuzu, Las Vegas; Thai Mama, San Jose; Blue Mango, San Jose)
