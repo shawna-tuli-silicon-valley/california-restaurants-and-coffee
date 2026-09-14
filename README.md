@@ -44,7 +44,8 @@
 * Urban Curry And Biryani, Mountain View
 * Jashn, Santa Clara
 * Khazana, Palo Alto
-* Chaat Corner, San Francisco 
+* Chaat Corner, San Francisco
+* Satkar Indian Cuisine, Sunnyvale
 
 3. American
 * Bix, San Francisco
