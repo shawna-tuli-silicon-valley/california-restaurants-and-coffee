@@ -141,7 +141,7 @@
 * Malaysian (Banana Leaf, Milpitas)
 * Asian (Straits, San Jose; Spice Kit, San Francisco)
 * Chinese (Sweet Mango, San Jose; San Tung, San Francisco; P.F. Chang's, Irvine; Harborview Restaurant & Bar, San Francisco; Dumpling House, San Francisco; Mr. Bao Kitchen, Mountain View; Ox 9 Lanzhou Handpulled Noodles, Mountain View)
-* Taiwanese (Din Tai Fung, Irvine)
+* Taiwanese (Din Tai Fung, San Jose; Din Tai Fung, Irvine)
 * Korean (Gen Korean BBQ House, Irvine; BCD Tofu House, Irvine)
 * Vietnamese (North Restaurant, Los Gatos; Le Colonial, San Francisco)
 * Mongolian (Little Sheep Mongolian Hot Pot, Irvine; Happy Lamb Hot Pot, Mountain View; New Mongolian BBQ, Mountain View)
@@ -211,6 +211,7 @@
 * Peet's Coffee, Palo Alto
 * Peet's Coffee, Almaden
 * Teaspoon, Los Altos
+* Frozo's, Santa Clara 
 
 #### Dessert Shops
 * Magnolia Bakery, New York City
