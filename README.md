@@ -46,7 +46,8 @@
 * Khazana, Palo Alto
 * Chaat Corner, San Francisco
 * Satkar Indian Cuisine, Sunnyvale
-* Lazeez India, Santa Clara 
+* Lazeez India, Santa Clara
+* Chatori Chaat, Santa Clara
 
 3. American
 * Bix, San Francisco
