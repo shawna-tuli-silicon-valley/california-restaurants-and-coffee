@@ -7,6 +7,7 @@
 * Sikh Gurdwara San Jose, San Jose
 * Gurdwara Sahib Fremont, Fremont
 * Maharaja Street Eats, San Francisco
+* Lazeez India, Santa Clara
 
 2. North Indian
 * Cafe Baadal, Mountain View
@@ -46,7 +47,6 @@
 * Khazana, Palo Alto
 * Chaat Corner, San Francisco
 * Satkar Indian Cuisine, Sunnyvale
-* Lazeez India, Santa Clara
 * Chatori Chaat, Santa Clara
 
 3. American
@@ -251,4 +251,6 @@
 * Kween's, Mountain View
 * Bacio di Latte, San Jose
 * The Penny Ice Creamery, Los Altos
-* Rocko's Ice Cream Tacos, Santa Clara 
+* Rocko's Ice Cream Tacos, Santa Clara
+* Marie Callender's, Sunnyvale
+* Nothing Bundt Cakes, Sunnyvale 
