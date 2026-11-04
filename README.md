@@ -217,7 +217,9 @@
 * Peet's Coffee, Palo Alto
 * Peet's Coffee, Almaden
 * Teaspoon, Los Altos
-* Frozo's, Santa Clara 
+* Frozo's, Santa Clara
+* Leavey Cafe, SCU
+* Coupa Cafe, GSB
 
 #### Dessert Shops
 * Magnolia Bakery, New York City
